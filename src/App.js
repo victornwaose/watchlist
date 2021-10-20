@@ -13,7 +13,6 @@ import './lib/css/all.min.css';
    <GlobalProvider>
     <Router>
       <Header />
-
       <Switch>
         <Route exact path="/">
           <WatchList />
